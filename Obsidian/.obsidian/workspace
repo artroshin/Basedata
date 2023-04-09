@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "dabfe2dcdd107b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ba0373c69457f54",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "My Zettel/Старт Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fbb1692f29c2941",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3a42bc2f5f5ab384",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ddac8b160d9ba90c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4b0261bf52c0a484",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0ace42b2de27d79b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "77988e44fd5b9d64",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "af8ebbdcccef39aa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "My Zettel/Старт Obsidian.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "296ad4575b397e25",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "My Zettel/Старт Obsidian.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "681f8fa918d8ad84",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "My Zettel/Старт Obsidian.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6ba0373c69457f54",
+  "lastOpenFiles": [
+    "My Zettel/Старт. Obsidian.md",
+    "My Zettel/Старт Obsidian.md"
+  ]
+}

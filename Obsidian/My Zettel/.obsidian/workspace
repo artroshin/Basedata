@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "1d0c965e6e47f6da",
+    "type": "split",
+    "children": [
+      {
+        "id": "2744cbfd24bddae3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/01 Zettel Finance.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62b730cf640d98d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c949695dab4b3d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e45839d1e906ed9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a58d06f8c254827",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b6db2ce87b6943e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ce4c4871e39f2f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3b0d37cba93f53e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d8205f4f87ed865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/01 Zettel Finance.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "80e3da9e5d5abf55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/01 Zettel Finance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bf5564ddb8b16bc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41f8e208865341ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/01 Zettel Finance.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2744cbfd24bddae3",
+  "lastOpenFiles": [
+    "Base/01 Ноябрь финансы 2022.md",
+    "Base/01 Zettel Finance.md",
+    "Base/01 Октябрь финансы 2022.md",
+    "Base/01 Декабрь финансы 2022.md",
+    "Base/00 Старт Obsidian.md",
+    "Base/Ссылка на список Obsidian.md",
+    "Templates/Снипеты.md",
+    "Base/Формирую закуп.md",
+    "Base/00 ОНЛАЙН МАГАЗИН СИГАРЕТ.md",
+    "Base/Сменный картридж Brusko Minican.md"
+  ]
+}
